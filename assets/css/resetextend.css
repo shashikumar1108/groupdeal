@@ -1,0 +1,9 @@
+.reset-title{
+    padding-right: 0;
+}
+
+
+.otp-reset.otpform .btn{
+    width: 100%;
+    padding: 12px!important;
+}

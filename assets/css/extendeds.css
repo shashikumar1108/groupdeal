@@ -1,0 +1,59 @@
+.otp-title{
+    font-weight: 700;
+font-size: 30px;
+color: #1D1F25;
+}
+.phone-otp{
+    font-weight: 400;
+font-size: 20px;
+color: #1D1F25;
+margin-bottom: 84px;
+}
+
+
+.otp-input input.form-control {
+width: 41px;
+text-align: center;
+display: inline-block;
+margin-right: 15px;
+}
+
+.otp-right{
+display: inline-block;
+vertical-align: top;
+padding: 140px 100px 0 100px;
+}
+.otpform {
+max-width: 520px;
+margin: 0 auto;
+}
+
+.otpform .btn{
+width: 48%;
+}
+
+.otp-input {
+margin-bottom: 24px;
+}
+
+.erro-otp{
+font-weight: 500;
+font-size: 10px;
+color: #F53D5C;
+margin-bottom: 4px;
+}
+
+.otp-notrecevied{
+font-size: 12px;
+color: #07395A;
+text-decoration: none;
+}
+
+.btn-otp-bottom{margin-top:308px;}
+
+.otp-left {
+vertical-align: bottom;
+position: absolute;
+bottom: 40px;
+}
+
